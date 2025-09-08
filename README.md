@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Gilberto Ojeda</h1>
 
+<a href="mailto:gilbertojeda30@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a href="www.linkedin.com/in/gilberto-ojeda-99a176254" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+<h3 align="left">Aboug me</h3>
+
+- 🌱 I’m currently learning **WEB Development Full-Stack**
+
+- 🎓 Futuro Ingeniero en Sistemas... voy por 5to semestre 💪
+
+- 💻 unos cuántos años de experiencia en el proceso de desarrollo de software, 4 years.
+
+- 📝 roles en el ámbito: desarrollador... arquitecto... programador freelance... y en un futuro quién sabe ☺️
+
+- 📫 Contacto: gilbertojeda30@gmail.com
+<hr width="36%" >
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
