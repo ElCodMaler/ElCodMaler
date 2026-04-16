@@ -16,7 +16,7 @@
 
 - 💻 unos cuántos años de experiencia en el proceso de desarrollo de software, 4 years.
 
-- 📝 roles en el ámbito: desarrollador... arquitecto... programador freelance... y en un futuro quién sabe ☺️
+- 📝 roles en el ámbito: desarrollador... arquitecto... programador freelance... y en un futuro quién sabe 😄
 
 - 📫 Contacto: gilbertojeda30@gmail.com
 <hr width="36%" >
